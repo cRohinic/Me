@@ -171,7 +171,7 @@ export const Home = () => {
                 <FaCode size={28} />
               </motion.a>
               <motion.a 
-                href="mailto:rohini@example.com" 
+                href="mailto:rohinic699@gmail.com" 
                 className="text-gray-400 transition-colors duration-300"
                 whileHover={socialIconAnimation.whileHover}
                 whileTap={socialIconAnimation.whileTap}
